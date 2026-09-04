@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Skills & Core Competencies
+## 🧠 Skills & Concepts Mastered in Day 01
 
 | Core Skill | Implementation Details |
 | :--- | :--- |
@@ -23,6 +23,12 @@
 | **Side-by-Side Model Arena** | Broadcast single prompts to two competing LLMs with interactive user voting (inspired by LMSYS Chatbot Arena). |
 | **Enterprise Secret Isolation** | Protected API keys using environment variables and strict `.gitignore` rules to prevent credential leaks. |
 | **Automated Testing with Mocks** | Built a 100% mocked Pytest suite to validate parsing and provider logic with **zero token cost**. |
+
+---
+
+## 📐 System Architecture Documentation
+- 🏛️ [**High-Level Design (HLD)**](./ARCHITECTURE_HLD.md) — System context, components, and data flow architecture.
+- 📐 [**Low-Level Design (LLD)**](./ARCHITECTURE_LLD.md) — UML Class diagrams, sequence diagrams, design patterns, and method contracts.
 
 ---
 
