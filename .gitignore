@@ -3,6 +3,8 @@
 *.env
 !.env.example
 .env.*.local
+LINKEDIN_POST.md
+*.draft.md
 
 # Python artifacts
 __pycache__/
